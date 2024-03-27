@@ -1,0 +1,25 @@
+* {
+    background-color: rgb(50, 50, 50);
+    user-select: none;
+}
+
+.cookieclicker-button {
+    background-color: red;
+    font-weight: bold;
+    aspect-ratio: 1;
+    width: 100px;
+    border-radius: 10%;
+    color: white;
+    
+}
+
+.cookieclicker-counter {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.cookieclicker-link {
+    text-align: center;
+    color: blue;
+}
